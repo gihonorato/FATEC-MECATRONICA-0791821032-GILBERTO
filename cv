@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    <body bgcolor="gray"></body>
+        <meta charset="UTF-8"/>
+        <title>Meu Currículo</title>
+        <center>
+    </head>
+    <body>
+        <!-- Nome -->
+        <h1>Gilberto Honorato Santos Junior</h1>
+
+        <!-- Texto de introdução -->
+        <h2>Sobre mim</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OqTO9dL3tQjGEZhDL9y8pATs7xt5LG9-ow&usqp=CAU">
+        <p>Meu Nome é Gilberto, sou gerente, atuo no ramo alimentício.</p>
+        <!-- Experiência Proficional -->
+        <h2>Experiência Proficional</h2>
+        <p>ARCOS DOURADOS LTDA </p>
+        <p>Empresa Multinacional – segmento de alimentos.</p>                                             Ago/2008 – Atual
+        <p>NOCELLONNI VASQUEZ<p> - segmento metalurgico.</p>                                                                      Jul/2004 - Fev/2006
+        <p>AMINO PLÁSTICO - segmento plástico.</p>                                                                                 Fev/2006 - Nov/2007
+        
+
+<p>•	Reportando-se ao supervisor de usinagem executando serviços em maquina TORNO REVÓLVER .</p>
+<p>•	Executando toda a preparação de maquina , e operando .</p>
+<p>•	Executando serviços de usinagem .</p>
+
+        <!-- Formção -->
+        <h2>Formação</h2>
+        <p>Tecnologo Mecatrônico - Fatec Santo André - Cursando.</p>
+        <!-- Habilidades e Competencias -->
+        <h2>Habilidades e Competencias</h2>
+        <p>•	Sólida experiência nas atividades relativas a área de desenvolvimento de usinagem e conformação de materiais.</p>
+        <p>•	Amplo conhecimento dos mais variados tipos de materiais usados em ferramentaria e equipamentos, bem como os processos de usinagem dos mesmos.</p>
+        <p>•	Amplo conhecimento dos mais variados tipos de materiais usados em injeção plástica.</p>
+        <p>•	Experiencia em acompanhar serviços de injeção , follow-up.</p>
+        <!-- Informações Adicinais -->
+        <h2>Cursos Complementares</h2>
+        <p>•	Leitura e Interpretação de desenho Mecânico – SENAI – SP.</p>
+        <p>•	Matemática aplicada a Mecânica – SENAI -SP.</p>
+        <h2>Informações de Contato.</h2>
+
+          <section id="contato">
+        <h2>contato</h2>
+           <p>Converse com a gente</p>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3S0mqTa1jJdXxZCqFgJ60ywhuK7ZIvw__g&usqp=CAU" height="5%" width="5%" alt="telefone">
+               <p> <a href="tel:1123640225"> (11) 959183925 </a>
+
+               </p>
+
+           </div>
+
+           <div>
+               <img src="https://img.ibxk.com.br/2017/08/25/25141314216229.jpg?w=1120&h=420&mode=crop&scale=both"height="5%" width="5%" alt="email">
+               <p> <a href="mailto:gibinha_09@yahoo.com.br"> gibinha_09@yahoo.com.br </a>
+
+               </p>
+
+           </div>
+
+           </section>
+
+     <footer>
+         <a href="#topo">VOLTAR</a>
+         <p>Desenvolvido por : Gilberto0791821032</p>
+     </footer>
+
+
+
+
+
+
+
+
+    </body>
+</html>
